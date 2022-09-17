@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to The Tfiltr Project
+
+We want to make it easy to find trans frendly services. As the Trans comunity deserves safe acesess to Docters, Pharmacy's, Gyms and all other services.
 
 <!--
 
